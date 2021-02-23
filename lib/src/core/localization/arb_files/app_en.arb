@@ -1,0 +1,13 @@
+{
+    "@@locale": "en",
+
+    "helloWorld": "Hello world!",
+    "@helloWorld": {
+        "description": "The conventional newborn programmer greeting"
+    },
+
+    "appName": "App name",
+    "@appName": {
+        "description": "Name of the app"
+    }
+}

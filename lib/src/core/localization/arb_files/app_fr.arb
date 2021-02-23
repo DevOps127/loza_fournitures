@@ -1,0 +1,15 @@
+{
+    "@@locale": "fr",
+
+    "helloWorld": "Bonjour le monde!",
+    "@helloWorld": {
+        "description": "La phrase quand on commence à programmer"
+    },
+
+    "appName": "Nom de l'app",
+    "@appName": {
+        "description": "Nom de l'application"
+    }
+
+
+}
